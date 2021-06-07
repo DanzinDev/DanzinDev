@@ -5,5 +5,11 @@
 - 👑 Criador do bot para discord: **foxy**
 - 🇧🇷 Sou brasileiro
 
+<p align="center">
+  <img src="https://api.jayson.codes/api/v1/github" />
+  <br />
+  <small>BOTH MADE BY ME & JS 💛</small>
+</p>
+
 
 Também sou o criador do servidor: **[Paraíso da galaxia](https://discord.gg/V9ANgrC)**
