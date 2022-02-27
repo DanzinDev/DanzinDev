@@ -6,4 +6,7 @@
 - 🇧🇷 Sou brasileiro
 
 
-Também sou o criador do servidor: **[Imperio da galaxia](https://discord.gg/V9ANgrC)**
+Me sigam no instagram: **https://www.instagram.com/sr.danilin/**
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanzinDev&langs_count=10&title_color=9745f5&text_color=000000&icon_color=9f4bff&hide_border=true)
+
